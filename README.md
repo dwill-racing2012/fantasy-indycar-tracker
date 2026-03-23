@@ -13,7 +13,7 @@
 - **Excel/Google Sheets**: Data processing
 - **Markdown**: Documentation
 
-## 📚 Study Notes / Resources
+## 📚 Resources
 - [Indycar Fantasy](https://www.indyfantasy.com)
 - [Indycar Website](https://www.indycar.com)
 
